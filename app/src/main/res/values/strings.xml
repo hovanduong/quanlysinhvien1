@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quanlysinhvien1</string>
+    <string name="masinhvien">Mã sinh viên: </string>
+    <string name="hotensinhvien">Họ tên sinh viên</string>
+    <string name="ngaysinh">Ngày sinh</string>
+    <string name="gioitinh">Giới tính</string>
+    <string name="them">Thêm</string>
+    <string name="danhsachsinhvien">Danh sách sinh viên</string>
+    <string name="nam">Nam</string>
+    <string name="nu">Nữ</string>
+</resources>
